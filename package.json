@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "git-init",
   "main": "",
-  "repository": {
-    "url": "https://github.com/santi100a/types-git-init",
-    "type": "git"
-  },
+  "repository": "santi100a/types-git-init",
   "keywords": [
     "git",
     "create",
