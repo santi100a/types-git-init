@@ -2,12 +2,11 @@
   "name": "git-init",
   "version": "1.0.0",
   "description": "git-init",
-  "main": "index.js",
-  "scripts": {
-    "test": "standard && NODE_ENV=test node test",
-    "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
+  "main": "",
+  "repository": {
+    "url": "https://github.com/santi100a/types-git-init",
+    "type": "git"
   },
-  "repository": "yoshuawuyts/git-init",
   "keywords": [
     "git",
     "create",
@@ -15,11 +14,11 @@
   ],
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "files": [
     "LICENSE",
-    "index.js",
+    "index.d.ts",
     "README.md"
-  ]
+  ],
+  "types": "index.d.ts"
 }
